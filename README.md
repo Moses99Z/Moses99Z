@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**Moses99Z/Moses99Z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙏 I'm Moussa 
+## Software Engineer / Mobile Developer 👨‍💻
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/LinkedIn-moussazouiti-blue)](https://www.linkedin.com/in/moussazouiti)
+[![](https://img.shields.io/badge/Gmail-zouiti.moussa@gmail.com-red)](mailto:zouiti.moussa@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+- 🛸 Learning everyday.
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+
+###
+
+I am currently a Mobile Developer at STG Telematics Morocco. I am open-minded and I appreciate teamwork. I am able to increase my skills on different projects and train myself to adapt to different issues.
+---
+⭐️ From [@mosa](https://github.com/Moses99Z)
